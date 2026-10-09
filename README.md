@@ -27,7 +27,7 @@ etl-ventas/
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/<tu-usuario>/etl-ventas.git
+   git clone https://github.com/Diego2022/etl-ventas.git
    cd etl-ventas
    ```
 2. (Opcional, recomendado) Crear y activar un entorno virtual:
